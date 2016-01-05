@@ -232,6 +232,7 @@ https://github.com/SEEDTEAM/TeleSeed
 Admins
 @keraboy
 @aloneboy_forever
+@mohammadshadow
 ]],
     help_text = [[
 Commands list :
